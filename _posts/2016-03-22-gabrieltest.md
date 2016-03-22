@@ -1,12 +1,12 @@
 ---
-title: gabriel test
+title: dssdfds
 layout: post
 author: cae
 permalink: /gabrieltest
 ---
 layout: post-light-feature
-title: Gabriel test
-description: "Test con Gabriel desde Google Docs"
+title: gabriel
+description: "Triple test"
 categories: articles
 date: 2015-03-21
 image: 
@@ -15,6 +15,8 @@ image:
 source-id: 1B9-OmnmhpNVw2qSjrTqCaF6F804GVA0kKHlFuRCkbL4
 published: true
 ---
+*Prueba de estilo*
+
 Lalallala
 
 *Prueba de estilo*
