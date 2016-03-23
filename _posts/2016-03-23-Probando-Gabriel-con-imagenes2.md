@@ -3,7 +3,7 @@ layout: "post-light-feature"
 title: Doble test
 description: Triple test
 categories: articles
-date: {}
+date: 2015-03-22
 image: 
   feature: "soft-trees.jpg"
 published: true
