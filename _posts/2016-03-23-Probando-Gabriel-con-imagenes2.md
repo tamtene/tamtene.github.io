@@ -1,5 +1,5 @@
 ---
-layout: "post-light-feature"
+layout: post-no-feature
 title: DALE
 description: Once when I was six years old I saw a magniﬁcent picture in a book.
 category: articles
