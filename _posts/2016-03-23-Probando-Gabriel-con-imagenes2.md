@@ -1,13 +1,8 @@
 ---
-title: DALE
 layout: "post-light-feature"
-author: cae
-permalink: "/probando-gabriel-con-imagenes/"
+title: DALE
 description: Once when I was six years old I saw a magniﬁcent picture in a book.
-comments: true
 category: articles
-"source-id": 1v5t_HhhLwrmXBp3Dh9KczD8umj5wCvTc9ryVzMKhCE0
-published: true
 ---
 
 Probando con imagenes
