@@ -1,8 +1,12 @@
 ---
-layout: post-no-feature
-title: DALE
-description: Once when I was six years old I saw a magniﬁcent picture in a book.
-category: articles
+layout: "post-light-feature"
+title: Doble test
+description: Triple test
+categories: articles
+date: {}
+image: 
+  feature: "soft-trees.jpg"
+published: true
 ---
 
 Probando con imagenes
