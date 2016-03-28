@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'jekyll'
+gem "jekyll", :github => "jekyll/jekyll"
 gem 'jekyll-minibundle'
 gem 'coderay'
 gem 'rake'
