@@ -25,13 +25,13 @@ opengraph:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Acerca de
+  - title: yo
     url: /about
-  - title: Github
-    url: https://github.com/ColeTownsend/Balzac-for-Jekyll
+  - title: corcho
+    url: /corcho
     external: true
-  - title: Tamara Who?
-    url: http://coletownsend.com
+  - title: experimentos
+    url: /experimentos
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
