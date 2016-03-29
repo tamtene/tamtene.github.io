@@ -29,10 +29,8 @@ links:
     url: /about
   - title: corcho
     url: /corcho
-    external: true
   - title: experimentos
     url: /experimentos
-    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Argentina/Buenos_Aires
